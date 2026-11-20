@@ -27,8 +27,8 @@ A local-first macOS workspace for capturing ideas, revisiting notes, and turning
 需要 macOS 14 或更高版本，以及 Swift 6 工具链。
 
 ```bash
-git clone https://github.com/EternalHunters/flomo_mac.git
-cd flomo_mac
+git clone https://github.com/EternalHunters/Sideleaf.git
+cd Sideleaf
 swift run FlomoMac
 ```
 
@@ -58,8 +58,8 @@ swift run FlomoMac
 Requires macOS 14 or later and a Swift 6 toolchain.
 
 ```bash
-git clone https://github.com/EternalHunters/flomo_mac.git
-cd flomo_mac
+git clone https://github.com/EternalHunters/Sideleaf.git
+cd Sideleaf
 swift run FlomoMac
 ```
 
