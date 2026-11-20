@@ -7,9 +7,9 @@ A local-first macOS workspace for capturing ideas, revisiting notes, and turning
 [中文](#中文) · [English](#english)
 
 <details>
-<summary>早期界面预览 · Early UI preview</summary>
+<summary>界面预览 · Interface preview</summary>
 
-![早期界面中的笔记列表和详情 / Note list and detail view in an early build](preview-main.png)
+![Sideleaf 的笔记列表和详情 / Note list and detail view in Sideleaf](preview-main.png)
 
 </details>
 
